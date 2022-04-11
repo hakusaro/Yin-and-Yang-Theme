@@ -783,10 +783,10 @@ settings:
   --custom-pre-line-thickness: 1px;
   --custom-ed-line-thickness: 1px;
 
-  --large-font-size: 18px;
-  --normal-font-size: 17px;
-  --medium-font-size: 16px;
-  --small-font-size: 15px;
+  --large-font-size: 14px;
+  --normal-font-size: 12px;
+  --medium-font-size: 13px;
+  --small-font-size: 10px;
   --titlebar-height: 28px;
   --line-width: 47rem;
   --max-width: 97%;
