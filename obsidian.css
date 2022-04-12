@@ -790,11 +790,11 @@ settings:
   --titlebar-height: 28px;
   --line-width: 47rem;
   --max-width: 97%;
-  --font-size-notes: 0.875rem;
+  --font-size-notes: 0.91rem;
   --normal-weight: 400;
   --bold-weight: 600;
   --editor-font-size: 0.91rem;
-  --code-font-size: 0.875em;
+  --code-font-size: 0.91rem;
   --editor-line-height: 1.756666em;
   --code-line-height: calc(var(--editor-line-height) - 0.25em);
   --editor-font-weight: 400;
@@ -3292,7 +3292,7 @@ Search Pane
   margin: 0;
   padding: 0 0 0 5px !important;
   border-bottom: none;
-  font-size: 0.91rem;
+  font-size: 0.85rem;
 }
 
 .search-result-file-match {
