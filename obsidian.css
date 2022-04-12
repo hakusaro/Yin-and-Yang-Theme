@@ -3292,7 +3292,7 @@ Search Pane
   margin: 0;
   padding: 0 0 0 5px !important;
   border-bottom: none;
-  font-size: 0.85rem;
+  font-size: 0.85rem !important;
 }
 
 .search-result-file-match {
